@@ -1,0 +1,23 @@
+CNN
+A CNN is a deep learning model that learns patterns from images such as edges, shapes and objects, just
+like the human brain.
+
+CNN automatically learns features, unlike traditional ML where we manually extract features.
+
+Convolution layer:
+	Imagine scanning an image using a small window (filter) to detect patterns.
+
+ReLU Activation:
+	ReLU keeps positive values and removes negative values.
+
+Pooling:
+	Pooling reduces image size while keeping important information.
+
+Flatten layer:
+	Converts 2D feature maps into 1D vector.
+
+Fully connected(dense) layer:
+	Works like traditional neural network, uses extracted features.
+
+Output layer:
+	Displays the final output.
